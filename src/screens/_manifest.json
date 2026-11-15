@@ -1,0 +1,55 @@
+{
+ "app": "Radio Podcast App",
+ "start": "s-00-splash-screen",
+ "screens": [
+  {
+   "slug": "s-04-player",
+   "name": "04_player",
+   "page": "Radio Player \ud83d\udcfb",
+   "w": 414,
+   "h": 896,
+   "elements": 234,
+   "links": 2
+  },
+  {
+   "slug": "s-03-channel",
+   "name": "03_channel",
+   "page": "Radio Player \ud83d\udcfb",
+   "w": 414,
+   "h": 896,
+   "elements": 190,
+   "links": 2
+  },
+  {
+   "slug": "s-02-channel",
+   "name": "02_channel",
+   "page": "Radio Player \ud83d\udcfb",
+   "w": 414,
+   "h": 896,
+   "elements": 190,
+   "links": 2
+  },
+  {
+   "slug": "s-01-channel",
+   "name": "01_channel",
+   "page": "Radio Player \ud83d\udcfb",
+   "w": 414,
+   "h": 896,
+   "elements": 194,
+   "links": 2
+  },
+  {
+   "slug": "s-00-splash-screen",
+   "name": "00_splash_screen",
+   "page": "Radio Player \ud83d\udcfb",
+   "w": 414,
+   "h": 896,
+   "elements": 4,
+   "links": 1
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter"
+ ]
+}
